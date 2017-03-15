@@ -11,7 +11,7 @@ The files need to be preprocessed with the coreference script (see ./scripts/cor
 
 #### Embeddings
 You can use any embedding file in w2v format of any dimension. <br />
-Tested with Conceptnet Numberbatch [2] and GoogleNews Vectors [3]
+Tested with Conceptnet Numberbatch [2]
 
 
 
@@ -37,6 +37,5 @@ Print help for the testing arguments.
 
 [1] http://cs.rochester.edu/nlp/rocstories/ <br />
 [2] https://blog.conceptnet.io/2016/05/25/conceptnet-numberbatch-a-new-name-for-the-best-word-embeddings-you-can-download/  <br />
-[3] https://code.google.com/archive/p/word2vec/
 
 
