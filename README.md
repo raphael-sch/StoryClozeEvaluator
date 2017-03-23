@@ -1,5 +1,9 @@
 ## Description
-This project implements a method for the Story Cloze Test. [1]
+This project implements a method for the Story Cloze Test [1]. The goal is to predict the right ending sentence given four context sentences of a story.
+The stories are based around everyday situations, so common sense is needed to solve the task. The model employs embeddings trained on ConceptNet [2] and a LSTM based Network to learn reasoning structures from the training stories.
+
+
+![alt text](https://raw.githubusercontent.com/raphael-sch/StoryClozeEvaluator/master/images/model.png "Diagram of the model")
 
 ## Requirements
 see packages in requirements.txt
